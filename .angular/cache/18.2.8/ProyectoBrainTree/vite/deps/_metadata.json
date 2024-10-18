@@ -1,0 +1,67 @@
+{
+  "hash": "ea799ebb",
+  "configHash": "223edc6b",
+  "lockfileHash": "75eb4bc3",
+  "browserHash": "799a2f66",
+  "optimized": {
+    "@angular/common/http": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "fc1cc875",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "dcc6b13a",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "eb46c830",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "0c350c2f",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "2819c478",
+      "needsInterop": false
+    },
+    "braintree-web-drop-in": {
+      "src": "../../../../../../node_modules/braintree-web-drop-in/dist/browser/dropin.js",
+      "file": "braintree-web-drop-in.js",
+      "fileHash": "9b50d3d0",
+      "needsInterop": true
+    },
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "0fe3546c",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-ZEES7TDX": {
+      "file": "chunk-ZEES7TDX.js"
+    },
+    "chunk-TLMYWAH3": {
+      "file": "chunk-TLMYWAH3.js"
+    },
+    "chunk-2OQPLKMH": {
+      "file": "chunk-2OQPLKMH.js"
+    },
+    "chunk-6BTJTMRL": {
+      "file": "chunk-6BTJTMRL.js"
+    },
+    "chunk-EIB7IA3J": {
+      "file": "chunk-EIB7IA3J.js"
+    }
+  }
+}
